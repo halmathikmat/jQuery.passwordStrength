@@ -20,3 +20,17 @@ Using `jQuery.passwordStrength` is fairly simple — you only need to call a sin
 
 
 ```
+
+
+
+#bHow does the plugin work?
+
+The password strength algorithm is quite basic. It keeps track of a score that increases when a user uses certain characters in their password. By default, you can configure by how much the score increases for ...
+
+* each character,
+* each space,
+* the usage of at least one lowercase character,
+* the usage of at least one uppercase character,
+* the usage of at least one number, and
+* the usage of at least one symbol.
+
