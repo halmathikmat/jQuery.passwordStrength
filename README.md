@@ -8,8 +8,14 @@ Using `jQuery.passwordStrength` is fairly simple — you only need to call a sin
 
 
 
-<d1>
- 
+function test() {
+<form action="#" method="get">
+    <input type="password" id="password" />
+</form>
 
-Inline code has back-ticks around it.
-</d1>
+<script type="text/javascript">
+    $(function() {
+        $("#password").passwordStrength();
+    });
+</script>
+}
