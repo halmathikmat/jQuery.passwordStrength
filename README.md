@@ -7,7 +7,7 @@
 Using `jQuery.passwordStrength` is fairly simple — you only need to call a single method on the password field you want the plugin to monitor.
 
 ```html
-<pre>
+
 <form action="#" method="get">
     <input type="password" id="password" />
 </form>
@@ -18,5 +18,5 @@ Using `jQuery.passwordStrength` is fairly simple — you only need to call a sin
     });
 </script>
 
-</pre>
+
 ```
