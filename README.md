@@ -11,5 +11,5 @@ Using `jQuery.passwordStrength` is fairly simple — you only need to call a sin
 <d1>
  
 
-```Inline `code` has `back-ticks around` it.```
+Inline code has back-ticks around it.
 </d1>
